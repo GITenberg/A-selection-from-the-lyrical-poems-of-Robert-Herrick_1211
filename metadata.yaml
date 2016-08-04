@@ -1,0 +1,34 @@
+_repo: A-selection-from-the-lyrical-poems-of-Robert-Herrick_1211
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Herrick, Robert
+    alias: Herrick, R. (Robert)
+    birthdate: 1591
+    deathdate: 1674
+    gutenberg_agent_id: '554'
+    url: http://www.gutenberg.org/2009/agents/554
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Herrick_(poet)
+  editor:
+    agent_name: Palgrave, Francis Turner
+    alias: Palgrave, Francis T.
+    birthdate: 1824
+    deathdate: 1897
+    gutenberg_agent_id: '555'
+    url: http://www.gutenberg.org/2009/agents/555
+    wikipedia: http://en.wikipedia.org/wiki/Francis_Turner_Palgrave
+description: ''
+gutenberg_issued: '1998-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1211'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English poetry -- Early modern, 1500-1700'
+- GITenberg
+title: A Selection from the Lyrical Poems of Robert Herrick
+url: http://www.gutenberg.org/ebooks/1211
