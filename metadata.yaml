@@ -1,5 +1,8 @@
 _repo: A-selection-from-the-lyrical-poems-of-Robert-Herrick_1211
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Herrick, Robert
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/555
     wikipedia: http://en.wikipedia.org/wiki/Francis_Turner_Palgrave
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1211#A-selection-from-the-lyrical-poems-of-Robert-Herrick
 gutenberg_issued: '1998-02-01'
 gutenberg_type: Text
 identifiers:
